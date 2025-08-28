@@ -1,32 +1,31 @@
-👋 Hi there! I'm Shirin
+# 👋 Hi there! I'm Shirin ✨🌸
 
-I'm a passionate Computer Science student 💻 with a love for learning, creating, and exploring the world of technology. I recently completed the IBM AI Developer Professional Certificate, and I’m constantly working on projects to improve my skills and build a strong portfolio.
+Welcome to my little GitHub corner! 🐾  
+I'm a **Computer Science student** 💻 who loves learning, building fun projects, and sprinkling a little magic everywhere ✨. I recently completed the **IBM AI Developer Professional Certificate** 🎓 and I’m always exploring new ways to grow and create! 🌈  
 
-🌱 What I’m learning
+---
 
-Artificial Intelligence & Machine Learning
+## 🌱 What I'm learning
+- **Artificial Intelligence & Machine Learning** 🤖💖  
+- **Python & C programming** 🐍🎀  
+- **Operating Systems & System Programming** ⚙️✨  
+- **Software development best practices** 🧩🌸  
 
-Python & C programming
+---
 
-Operating Systems & System Programming
+## 💡 My Projects
+I love projects that challenge me and make me smile! 😺 Some areas I focus on:  
+- **AI & Automation:** Building smart tools to make life easier ✨🌟  
+- **Data & Algorithms:** Crunching numbers and solving fun problems 🔢💖  
+- **System Programming:** Threads, semaphores, file handling & hashing ⚙️🎀  
+- **Fun & Learning Projects:** Little playful apps to experiment and learn 🎨🐾  
 
-Software development best practices
+Check out my repositories to see what I'm creating! 💕🚀  
 
-💡 My Projects
+---
 
-I enjoy building projects that challenge me and help me grow as a developer. Some areas I focus on:
+## 🤝 Let’s Connect
+I love collaborating, sharing ideas, and learning from others 🌸💌. Feel free to reach out or explore my projects—let's make magical things together! ✨💖  
 
-AI & Automation: Exploring the power of AI to build smart tools.
-
-Data & Algorithms: From data analysis to algorithmic problem solving.
-
-System Programming: C projects with threads, semaphores, file handling, and hashing.
-
-Fun & Learning Projects: Small, playful apps to experiment and improve.
-
-Check out my repositories to see what I’m building! 🚀
-
-🤝 Let’s Connect
-
-I’m always excited to collaborate, learn, and share ideas. Feel free to reach out or explore my projects—let’s make cool things together!
+📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/shirinxbyte) | [Email](mailto:shirinxbyte@gmail.com)
 

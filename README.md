@@ -7,7 +7,7 @@ I'm a **Computer Science student** 💻 who loves learning, building fun project
 
 ## 🌱 What I'm learning
 - **Artificial Intelligence & Machine Learning** 🤖💖  
-- **Python & C programming** 🐍🎀  
+- **Python & C programming** 🐍🎀   
 - **Operating Systems & System Programming** ⚙️✨  
 - **Software development best practices** 🧩🌸  
 

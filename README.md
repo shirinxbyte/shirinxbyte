@@ -2,7 +2,7 @@
  
 Welcome to my little GitHub corner! 🐾  
 I'm a **Computer Science student** 💻 who loves learning, building fun projects, and sprinkling a little magic everywhere ✨. I recently completed the **IBM AI Developer Professional Certificate** 🎓 and I’m always exploring new ways to grow and create! 🌈  
-
+ 
  
  
 ## 🌱 What I'm learning 
